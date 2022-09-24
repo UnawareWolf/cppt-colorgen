@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cppt-colorgen/static/css/main.f96408eb.css",
+    "main.js": "/cppt-colorgen/static/js/main.be50ba6b.js",
+    "static/js/787.11a4932c.chunk.js": "/cppt-colorgen/static/js/787.11a4932c.chunk.js",
+    "index.html": "/cppt-colorgen/index.html",
+    "main.f96408eb.css.map": "/cppt-colorgen/static/css/main.f96408eb.css.map",
+    "main.be50ba6b.js.map": "/cppt-colorgen/static/js/main.be50ba6b.js.map",
+    "787.11a4932c.chunk.js.map": "/cppt-colorgen/static/js/787.11a4932c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f96408eb.css",
+    "static/js/main.be50ba6b.js"
+  ]
+}

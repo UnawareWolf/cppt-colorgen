@@ -1,0 +1,40 @@
+.main_wrapper {
+    padding: 20px;
+
+    h2 {
+        text-transform: uppercase;
+        text-align: center;
+        color: #00AAFF;
+    }
+
+}
+
+.initial_SVG-wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.initialSVGPath input {
+    width: 500;
+    height: 60;
+    padding: 10;
+}
+
+.result-wrapper {
+    margin-top: 20px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px 0;
+    border: 2px dotted #ddd;
+    border-radius: 5px;
+    word-wrap: wrap;
+
+    p {
+        width: 40%;
+        text-align: center;
+        word-break: break-all;
+    }
+}
